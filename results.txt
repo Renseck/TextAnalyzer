@@ -1,0 +1,626 @@
+{
+  "total_messages": 103,
+  "total_spaces": 641,
+  "total_words": 609,
+  "space_to_word_ratio": 1.0525451559934318,
+  "messages": [
+    {
+      "message": "Ik hoop het echt voor je",
+      "spaces": 5,
+      "words": 6,
+      "ratio": 0.8333333333333334
+    },
+    {
+      "message": "Heb jij gezegd  wat je wilt  in die  baan?",
+      "spaces": 11,
+      "words": 9,
+      "ratio": 1.2222222222222223
+    },
+    {
+      "message": "Poesje  mauw   kom eens gauw...",
+      "spaces": 7,
+      "words": 5,
+      "ratio": 1.4
+    },
+    {
+      "message": "Nu al 1,5 kg   zo  aardig  op gewicht",
+      "spaces": 11,
+      "words": 9,
+      "ratio": 1.2222222222222223
+    },
+    {
+      "message": "Noorderlicht    Noorse boskat",
+      "spaces": 5,
+      "words": 3,
+      "ratio": 1.6666666666666667
+    },
+    {
+      "message": "Zeker  is ook hele mooie naam",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "Gefeliciteerd met jullie nieuwe aanwinst",
+      "spaces": 4,
+      "words": 5,
+      "ratio": 0.8
+    },
+    {
+      "message": "O jee   dat is nog erger als  kleine  kinderen.   ...",
+      "spaces": 18,
+      "words": 11,
+      "ratio": 1.6363636363636365
+    },
+    {
+      "message": "Ik hoop dat jullie er veel plezier mee en van hebb...",
+      "spaces": 10,
+      "words": 11,
+      "ratio": 0.9090909090909091
+    },
+    {
+      "message": "Deze  is nog maar 14 weken.",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "Baby 's  hebben veel rust nodig",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "En hoe  is het leven met een nieuw  gezinslid? @31...",
+      "spaces": 12,
+      "words": 11,
+      "ratio": 1.0909090909090908
+    },
+    {
+      "message": "Je huis  is dus 1 grote  speeltuin  geworden?",
+      "spaces": 10,
+      "words": 8,
+      "ratio": 1.25
+    },
+    {
+      "message": "kras  kras kras",
+      "spaces": 3,
+      "words": 3,
+      "ratio": 1.0
+    },
+    {
+      "message": "opvoeden is  een 24 uurs taak \ud83d\ude02",
+      "spaces": 7,
+      "words": 6,
+      "ratio": 1.1666666666666667
+    },
+    {
+      "message": "Knappe  meid.",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Heerlijk",
+      "spaces": 0,
+      "words": 1,
+      "ratio": 0.0
+    },
+    {
+      "message": "Is  het koud  in huis?",
+      "spaces": 6,
+      "words": 5,
+      "ratio": 1.2
+    },
+    {
+      "message": "Je  hebt  zo n lekker dekentje  over  je benen.",
+      "spaces": 12,
+      "words": 9,
+      "ratio": 1.3333333333333333
+    },
+    {
+      "message": "\ud83d\ude02",
+      "spaces": 0,
+      "words": 0,
+      "ratio": 0
+    },
+    {
+      "message": "Zo  lief.",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Opa  en oma  ook niet",
+      "spaces": 6,
+      "words": 5,
+      "ratio": 1.2
+    },
+    {
+      "message": "Robert ook niet",
+      "spaces": 2,
+      "words": 3,
+      "ratio": 0.6666666666666666
+    },
+    {
+      "message": "Grappig.",
+      "spaces": 0,
+      "words": 1,
+      "ratio": 0.0
+    },
+    {
+      "message": "Die voelt  zich  natuurlijk  een wereld ster \ud83d\ude02",
+      "spaces": 10,
+      "words": 7,
+      "ratio": 1.4285714285714286
+    },
+    {
+      "message": "Toch wel iets  meer dan alleen olifanten?",
+      "spaces": 7,
+      "words": 7,
+      "ratio": 1.0
+    },
+    {
+      "message": "Leer je haar  volgen?",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "Zo  grappig",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "Het is  geen hond   hoor \ud83d\ude02",
+      "spaces": 8,
+      "words": 5,
+      "ratio": 1.6
+    },
+    {
+      "message": "We zijn  bij ome Ad.  Eten voor de honden staat op...",
+      "spaces": 16,
+      "words": 15,
+      "ratio": 1.0666666666666667
+    },
+    {
+      "message": "Natuurlijk niet.",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Honden  vinden het best wel intressant in de campe...",
+      "spaces": 9,
+      "words": 9,
+      "ratio": 1.0
+    },
+    {
+      "message": "Ik heb er bewust  een kabel voor  gekocht",
+      "spaces": 9,
+      "words": 8,
+      "ratio": 1.125
+    },
+    {
+      "message": "Via  bleutooth  alleen telefoon en contacten",
+      "spaces": 7,
+      "words": 6,
+      "ratio": 1.1666666666666667
+    },
+    {
+      "message": "Dat weet ik,  maar deze werkt  ook op pap zijn mob...",
+      "spaces": 12,
+      "words": 11,
+      "ratio": 1.0909090909090908
+    },
+    {
+      "message": "In de kia  bedoel ik.",
+      "spaces": 5,
+      "words": 5,
+      "ratio": 1.0
+    },
+    {
+      "message": "ja  meerdere geprobeerd in de auto.",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "Ze hebben usb poorten bijgemaakt in de camper.",
+      "spaces": 7,
+      "words": 8,
+      "ratio": 0.875
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Smaakt  goed.",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "Dank je",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Ja.",
+      "spaces": 0,
+      "words": 1,
+      "ratio": 0.0
+    },
+    {
+      "message": "Voor hier ook even.",
+      "spaces": 3,
+      "words": 4,
+      "ratio": 0.75
+    },
+    {
+      "message": "Er zijn wel meer dingen op die dag.  o.a. trouwdag...",
+      "spaces": 31,
+      "words": 31,
+      "ratio": 1.0
+    },
+    {
+      "message": "Alhoewel ik het zeer fijn vind als  jullie  er all...",
+      "spaces": 26,
+      "words": 21,
+      "ratio": 1.2380952380952381
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Toch  blij dat ze mee is  gegaan \ud83d\ude09",
+      "spaces": 9,
+      "words": 7,
+      "ratio": 1.2857142857142858
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "En nu  niet iets  bijzonders  gedaan?",
+      "spaces": 8,
+      "words": 6,
+      "ratio": 1.3333333333333333
+    },
+    {
+      "message": "Wel eng",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Dat vond  ik ook.",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "Netjes  hoor.",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Wordt weer  energie  in gedaan",
+      "spaces": 6,
+      "words": 5,
+      "ratio": 1.2
+    },
+    {
+      "message": "Ja  toch",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "Ja  we zijn zaterdag  thuis.",
+      "spaces": 6,
+      "words": 5,
+      "ratio": 1.2
+    },
+    {
+      "message": "Gezellig  dat jullie komen",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "Zaterdag  avond  hebben we nog een 60 jaar feestje",
+      "spaces": 10,
+      "words": 9,
+      "ratio": 1.1111111111111112
+    },
+    {
+      "message": "natuurlijk  niet.  Meestal  zijn jullie al weg voo...",
+      "spaces": 16,
+      "words": 13,
+      "ratio": 1.2307692307692308
+    },
+    {
+      "message": "En we hebben  nu even drukke weekenden.  Maar ande...",
+      "spaces": 17,
+      "words": 16,
+      "ratio": 1.0625
+    },
+    {
+      "message": "Grappig",
+      "spaces": 0,
+      "words": 1,
+      "ratio": 0.0
+    },
+    {
+      "message": "Is  goed,  we zien jullie  straks",
+      "spaces": 8,
+      "words": 6,
+      "ratio": 1.3333333333333333
+    },
+    {
+      "message": "Ze was begin van de middag  al moe.. Buitenlucht  ...",
+      "spaces": 13,
+      "words": 12,
+      "ratio": 1.0833333333333333
+    },
+    {
+      "message": "Prachtig. jong  geleerd",
+      "spaces": 3,
+      "words": 3,
+      "ratio": 1.0
+    },
+    {
+      "message": "We zijn onderweg  met de camper.",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "Dank je.",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Dat  vond ik ook.   Elk weekend  is er wat, dan de...",
+      "spaces": 24,
+      "words": 21,
+      "ratio": 1.1428571428571428
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Vierhouten  is het geworden",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "Prima.. Zijn de hele weg  rustig gebleven.   Hebbe...",
+      "spaces": 27,
+      "words": 23,
+      "ratio": 1.173913043478261
+    },
+    {
+      "message": "De 1e  belevenis  hebben we al.",
+      "spaces": 7,
+      "words": 6,
+      "ratio": 1.1666666666666667
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Echt  ik denk nog geen 10 meter van ons af",
+      "spaces": 10,
+      "words": 10,
+      "ratio": 1.0
+    },
+    {
+      "message": "Voor en achter wieken",
+      "spaces": 3,
+      "words": 4,
+      "ratio": 0.75
+    },
+    {
+      "message": "Zo  dicht  bij  vond  ik werkelijk heel bijzonder",
+      "spaces": 11,
+      "words": 8,
+      "ratio": 1.375
+    },
+    {
+      "message": "Pas de tekst wel aan.\ud83d\ude07",
+      "spaces": 4,
+      "words": 5,
+      "ratio": 0.8
+    },
+    {
+      "message": "Zouden ze ons  afgeluistert  hebben?",
+      "spaces": 6,
+      "words": 5,
+      "ratio": 1.2
+    },
+    {
+      "message": "Dat kan echt wel hoor.  Ik ben niet in het leger g...",
+      "spaces": 21,
+      "words": 20,
+      "ratio": 1.05
+    },
+    {
+      "message": "Uitnodiging  gestuurd van toer  op komoot.",
+      "spaces": 7,
+      "words": 6,
+      "ratio": 1.1666666666666667
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Hondjes  in rust",
+      "spaces": 3,
+      "words": 3,
+      "ratio": 1.0
+    },
+    {
+      "message": "Het was  vandaag  prima  weer.",
+      "spaces": 7,
+      "words": 5,
+      "ratio": 1.4
+    },
+    {
+      "message": "Al die  indrukken  hebben de hondjes  moe  gemaakt",
+      "spaces": 11,
+      "words": 8,
+      "ratio": 1.375
+    },
+    {
+      "message": "Weer  thuis.",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "15 graden in de kamer  en een koude wind.",
+      "spaces": 9,
+      "words": 9,
+      "ratio": 1.0
+    },
+    {
+      "message": "Mocht Arora  mee uit wandelen?",
+      "spaces": 5,
+      "words": 5,
+      "ratio": 1.0
+    },
+    {
+      "message": "Ze groeit  al lekker",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "Vind  ze vast  fantastisch",
+      "spaces": 5,
+      "words": 4,
+      "ratio": 1.25
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "<Media omitted>",
+      "spaces": 1,
+      "words": 2,
+      "ratio": 0.5
+    },
+    {
+      "message": "Mooie  zonsondergang",
+      "spaces": 2,
+      "words": 2,
+      "ratio": 1.0
+    },
+    {
+      "message": "Ja,  makkelijk leven zo.",
+      "spaces": 4,
+      "words": 4,
+      "ratio": 1.0
+    },
+    {
+      "message": "location: https://maps.google.com/?q=52.8484221,6....",
+      "spaces": 1,
+      "words": 10,
+      "ratio": 0.1
+    },
+    {
+      "message": "De honden  vinden het ook leuk.",
+      "spaces": 6,
+      "words": 6,
+      "ratio": 1.0
+    },
+    {
+      "message": "Hunnebed.   enkelvoud",
+      "spaces": 3,
+      "words": 2,
+      "ratio": 1.5
+    },
+    {
+      "message": "Meer zijn er niet in de omgeving",
+      "spaces": 6,
+      "words": 7,
+      "ratio": 0.8571428571428571
+    }
+  ]
+}
