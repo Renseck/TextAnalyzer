@@ -6,7 +6,7 @@ def main():
     analyzer = textAnalyzer("input.txt", "console")
     
     # Use the new author analysis feature to analyze Carla Rus's messages
-    author_name = "Carla Rus:"
+    author_name = "John doe:"
     analyzer.output_author_analysis(author_name)
     
     # # Alternative longer version
